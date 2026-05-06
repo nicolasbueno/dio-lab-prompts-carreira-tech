@@ -73,13 +73,6 @@ dio-lab-prompts-carreira-tech/
 │   ├── 01-entrevista-carreira.md
 │   ├── 02-ranking-carreiras.md
 │   └── 03-plano-carreira-analista-dados-bi.md
-│
-├── docs/
-│   ├── metodologia.md
-│   └── perfil-utilizado.md
-│
-└── assets/
-    └── prints/
 ```
 ---
 
