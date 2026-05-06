@@ -100,13 +100,13 @@ Com base nas respostas fornecidas, os principais pontos identificados foram:
 
 Após a análise do perfil, foram identificadas três carreiras com boa aderência:
 
-1. **Analista de Dados / BI Analyst**
-2. **Analytics Engineer / Data Analyst com foco técnico**
-3. **Cloud / Observability Analyst com foco em Dados**
+1. **Analytics Engineer / Especialista em Dados e BI com IA**
+2. **LUGAR: MLOps / DataOps Engineer**
+3. **Cloud Data Engineer / Engenheiro de Dados Cloud**
 
 A carreira escolhida para aprofundamento foi:
 
-## Analista de Dados / BI Analyst
+## Analytics Engineer / Especialista em Dados e BI com IA
 
 Essa escolha foi feita por estar diretamente conectada à minha experiência prática com Power BI, SQL Server, Python, ETL, dashboards e indicadores operacionais.
 
