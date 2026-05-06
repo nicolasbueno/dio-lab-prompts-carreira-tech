@@ -81,6 +81,8 @@ dio-lab-prompts-carreira-tech/
 └── assets/
     └── prints/
 ```
+---
+
 ## Resultado da Entrevista
 
 Com base nas respostas fornecidas, os principais pontos identificados foram:
