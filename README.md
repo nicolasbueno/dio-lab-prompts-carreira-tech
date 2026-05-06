@@ -81,3 +81,107 @@ dio-lab-prompts-carreira-tech/
 └── assets/
     └── prints/
 ```
+## Resultado da Entrevista
+
+Com base nas respostas fornecidas, os principais pontos identificados foram:
+
+- **Interesse principal:** resolver problemas com tecnologia.
+- **Área de maior afinidade:** dados.
+- **Objetivo:** transição e crescimento de carreira.
+- **Disponibilidade:** 10 horas semanais de estudo.
+- **Tecnologias de interesse:** Inteligência Artificial, Dados, BI, Machine Learning, Cloud, Azure, AWS e Observabilidade.
+- **Experiências aproveitáveis:** Power BI, Python, SQL Server, Azure, automação, ETL, dashboards, monitoramento e liderança de NOC.
+
+---
+
+## Carreiras Sugeridas
+
+Após a análise do perfil, foram identificadas três carreiras com boa aderência:
+
+1. **Analista de Dados / BI Analyst**
+2. **Analytics Engineer / Data Analyst com foco técnico**
+3. **Cloud / Observability Analyst com foco em Dados**
+
+A carreira escolhida para aprofundamento foi:
+
+## Analista de Dados / BI Analyst
+
+Essa escolha foi feita por estar diretamente conectada à minha experiência prática com Power BI, SQL Server, Python, ETL, dashboards e indicadores operacionais.
+
+---
+
+## Plano de Desenvolvimento
+
+O plano gerado foi organizado em um roadmap de 90 dias, considerando 10 horas semanais de estudo.
+
+### Principais focos do roadmap
+
+- Reforço em SQL para análise de dados.
+- Modelagem de dados para BI.
+- Power BI e DAX.
+- Python para automação e tratamento de dados.
+- Construção de projeto de portfólio.
+- Preparação para entrevistas na área de dados.
+
+---
+
+## Projeto de Portfólio Proposto
+
+# Dashboard de Indicadores Operacionais com Power BI e Python
+
+O projeto de portfólio proposto consiste em criar uma solução analítica para consolidar dados operacionais, tratar informações com Python e apresentar indicadores em um dashboard no Power BI.
+
+### Entregáveis previstos
+
+- Script Python para tratamento dos dados.
+- Base tratada em CSV ou Parquet.
+- Dashboard em Power BI.
+- Documentação técnica.
+- Dicionário de dados.
+- Prints do dashboard.
+- Explicação do problema, solução e impacto esperado.
+
+---
+
+## Aprendizados
+
+Este projeto mostrou como a Inteligência Artificial pode ser utilizada como apoio no planejamento de carreira, desde que exista um bom contexto e prompts bem estruturados.
+
+Os principais aprendizados foram:
+
+- A importância de fornecer contexto claro para a IA.
+- Como transformar respostas simples em um plano estruturado.
+- Como conectar experiências profissionais reais com objetivos futuros.
+- Como organizar um projeto de prompt engineering de forma apresentável no GitHub.
+- Como usar IA para apoiar decisões de carreira sem perder o senso crítico.
+
+---
+
+## Tecnologias e Conceitos Envolvidos
+
+- Prompt Engineering
+- Inteligência Artificial Generativa
+- Planejamento de carreira em tecnologia
+- Dados e BI
+- Power BI
+- SQL
+- Python
+- Cloud Computing
+- Observabilidade
+- GitHub
+
+---
+
+## Referência
+
+Os prompts utilizados como base foram disponibilizados pela Digital Innovation One no repositório:
+
+https://github.com/digitalinnovationone/copilot-prompts/tree/main
+
+---
+
+## Autor
+
+**Nicolas dos Santos Bueno**
+
+Profissional de tecnologia com experiência em Cloud, Dados, BI, Automação, Observabilidade e Liderança de NOC.
